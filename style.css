@@ -14,18 +14,17 @@ body {
 
 
 .img1 {
-    width: 100%;
-    max-width: 505px;
+    width: 510px;
+    height: 775px; 
 }
 
 .img2 {
     height: 725px;   
-    width: 100%;
-    max-width: 550px;
+    
+    width: 555px;
 }
 
 .img3 {
-    width: 100%;
-    max-width: 505px;
-    
+    width: 515px;
+    height: 775px; 
 }
