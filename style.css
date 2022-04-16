@@ -3,3 +3,29 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color: black;
+}
+
+.titulo {
+    text-decoration: overline;
+}
+
+
+.img1 {
+    width: 100%;
+    max-width: 505px;
+}
+
+.img2 {
+    height: 725px;   
+    width: 100%;
+    max-width: 550px;
+}
+
+.img3 {
+    width: 100%;
+    max-width: 505px;
+    
+}
